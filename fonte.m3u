@@ -1,0 +1,279 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="pt_abola" tvg-name="PT - A Bola" tvg-logo="https://img.faz-o-eli.online/pt_abola.png" group-title="Portugal",PT - A Bola
+https://d0010a6f34908640a4a6da2389772a78.s21-cloudfront-net.lat/embedtv/acf282188e67d05fcdaa750f89f4a2d9/file.txt
+#EXTINF:-1 tvg-id="pt_benficatv" tvg-name="PT - Benfica TV" tvg-logo="https://img.faz-o-eli.online/pt_benficatv.png" group-title="Portugal",PT - Benfica TV
+https://d0010a6f34908640a4a6da2389772a78.s21-cloudfront-net.lat/embedtv/48e43c5b14cbc5b46aef955180ad3e7d/file.txt
+#EXTINF:-1 tvg-id="pt_canal11" tvg-name="PT - Canal 11" tvg-logo="https://img.faz-o-eli.online/pt_canal11.prev.png" group-title="Portugal",PT - Canal 11
+https://d0010a6f34908640a4a6da2389772a78.s21-cloudfront-net.lat/embedtv/1e2abfa64f98ebfbf19e38d3d806cad4/file.txt
+#EXTINF:-1 tvg-id="pt_eleven1" tvg-name="PT - Eleven 1" tvg-logo="https://img.faz-o-eli.online/eleven.png" group-title="Portugal",PT - Eleven 1
+https://d0010a6f34908640a4a6da2389772a78.s21-cloudfront-net.lat/embedtv/5ddce6042329d3d286b758b9c63d6827/file.txt
+#EXTINF:-1 tvg-id="pt_eleven2" tvg-name="PT - Eleven 2" tvg-logo="https://img.faz-o-eli.online/eleven.png" group-title="Portugal",PT - Eleven 2
+https://d0010a6f34908640a4a6da2389772a78.s21-cloudfront-net.lat/embedtv/5a714ae986c0e2d4621bbe2dd67ce031/file.txt
+#EXTINF:-1 tvg-id="pt_eleven3" tvg-name="PT - Eleven 3" tvg-logo="https://img.faz-o-eli.online/eleven.png" group-title="Portugal",PT - Eleven 3
+https://d0010a6f34908640a4a6da2389772a78.s21-cloudfront-net.lat/embedtv/acd992ac92c9294d912419abbf72b019/file.txt
+#EXTINF:-1 tvg-id="pt_sportv1" tvg-name="PT - Sporttv 1" tvg-logo="https://img.faz-o-eli.online/sportv.png" group-title="Portugal",PT - Sporttv 1
+https://d0010a6f34908640a4a6da2389772a78.s21-cloudfront-net.lat/embedtv/6b74c8502d53775a96f83f3d1880684a/file.txt
+#EXTINF:-1 tvg-id="pt_sportv2" tvg-name="PT - Sporttv 2" tvg-logo="https://img.faz-o-eli.online/sportv.png" group-title="Portugal",PT - Sporttv 2
+https://d0010a6f34908640a4a6da2389772a78.s21-cloudfront-net.lat/embedtv/f8180ed428d722d3263d59ca53c6b7d6/file.txt
+#EXTINF:-1 tvg-id="pt_sportv3" tvg-name="PT - Sporttv 3" tvg-logo="https://img.faz-o-eli.online/sportv.png" group-title="Portugal",PT - Sporttv 3
+https://d0010a6f34908640a4a6da2389772a78.s21-cloudfront-net.lat/embedtv/7988bb531c055a9e4ab0e5de4ac4de6d/file.txt
+#EXTINF:-1 tvg-id="pt_sportv4" tvg-name="PT - Sporttv 4" tvg-logo="https://img.faz-o-eli.online/sportv.png" group-title="Portugal",PT - Sporttv 4
+https://d0010a6f34908640a4a6da2389772a78.s21-cloudfront-net.lat/embedtv/cafbb00fc68b095ed2370ad6d27d17bb/file.txt
+#EXTINF:-1 tvg-id="pt_sportv5" tvg-name="PT - Sporttv 5" tvg-logo="https://img.faz-o-eli.online/sportv.png" group-title="Portugal",PT - Sporttv 5
+https://d0010a6f34908640a4a6da2389772a78.s21-cloudfront-net.lat/embedtv/b0d6311cf456e04850989d40ce7403a3/file.txt
+#EXTINF:-1 tvg-id="pt_sportv6" tvg-name="PT - Sporttv 6" tvg-logo="https://img.faz-o-eli.online/sportv.png" group-title="Portugal",PT - Sporttv 6
+https://d0010a6f34908640a4a6da2389772a78.s21-cloudfront-net.lat/embedtv/d1cb8c75e3a08c4bb3059808b9c653ca/file.txt
+#EXTINF:-1 tvg-id="pt_sportv7" tvg-name="PT - Sporttv 7" tvg-logo="https://img.faz-o-eli.online/sportv.png" group-title="Portugal",PT - Sporttv 7
+https://d0010a6f34908640a4a6da2389772a78.s21-cloudfront-net.lat/embedtv/3dff6af927c5f3f3ae69008b015de96f/file.txt
+#EXTINF:-1 tvg-id="bandsports" tvg-name="Band Sports" tvg-logo="https://img.faz-o-eli.online/bandsports.png" group-title="Esportes",Band Sports
+https://d0010a6f34908640a4a6da2389772a78.s21-cloudfront-net.lat/embedtv/e3f0a74431834f07e5e2440639d7b21b/file.txt
+#EXTINF:-1 tvg-id="caze1" tvg-name="CazeTV 1" tvg-logo="https://img.faz-o-eli.online/cazetv.png" group-title="Esportes",CazeTV 1
+https://d0010a6f34908640a4a6da2389772a78.s21-cloudfront-net.lat/embedtv/0ac1a7f1043778ee71dce8131e79137e/file.txt
+#EXTINF:-1 tvg-id="caze2" tvg-name="CazeTV 2" tvg-logo="https://img.faz-o-eli.online/cazetv.png" group-title="Esportes",CazeTV 2
+https://d0010a6f34908640a4a6da2389772a78.s21-cloudfront-net.lat/embedtv/6e194c761f2f77d439cdf9e8edfd834b/file.txt
+#EXTINF:-1 tvg-id="caze3" tvg-name="CazeTV 3" tvg-logo="https://img.faz-o-eli.online/cazetv.png" group-title="Esportes",CazeTV 3
+https://d0010a6f34908640a4a6da2389772a78.s21-cloudfront-net.lat/embedtv/7ab1400c335eb01a698fe05a9dc450c8/file.txt
+#EXTINF:-1 tvg-id="combate" tvg-name="Combate" tvg-logo="https://img.faz-o-eli.online/combate.png" group-title="Esportes",Combate
+https://d0010a6f34908640a4a6da2389772a78.s21-cloudfront-net.lat/embedtv/59e0a8e63ed60f46004e9111b1a725a1/file.txt
+#EXTINF:-1 tvg-id="disneyplus1" tvg-name="Disney Plus 1" tvg-logo="https://img.faz-o-eli.online/disneyplus.png" group-title="Esportes",Disney Plus 1
+https://d0010a6f34908640a4a6da2389772a78.s21-cloudfront-net.lat/embedtv/26feff138246bd7bd9665341245a8f6d/file.txt
+#EXTINF:-1 tvg-id="disneyplus2" tvg-name="Disney Plus 2" tvg-logo="https://img.faz-o-eli.online/disneyplus.png" group-title="Esportes",Disney Plus 2
+https://d0010a6f34908640a4a6da2389772a78.s21-cloudfront-net.lat/embedtv/0220ec7dba44aa141ddccddb0553cd08/file.txt
+#EXTINF:-1 tvg-id="disneyplus3" tvg-name="Disney Plus 3" tvg-logo="https://img.faz-o-eli.online/disneyplus.png" group-title="Esportes",Disney Plus 3
+https://d0010a6f34908640a4a6da2389772a78.s21-cloudfront-net.lat/embedtv/e19bc66315595fdac15516a495b288f3/file.txt
+#EXTINF:-1 tvg-id="espn" tvg-name="Espn" tvg-logo="https://img.faz-o-eli.online/espn.png" group-title="Esportes",Espn
+https://d0010a6f34908640a4a6da2389772a78.s21-cloudfront-net.lat/embedtv/800000fb8a66ebf70403bcd796152a1c/file.txt
+#EXTINF:-1 tvg-id="espn2" tvg-name="Espn 2" tvg-logo="https://img.faz-o-eli.online/espn2.png" group-title="Esportes",Espn 2
+https://d0010a6f34908640a4a6da2389772a78.s21-cloudfront-net.lat/embedtv/827eeccd40924654122ba3b65adf0f1b/file.txt
+#EXTINF:-1 tvg-id="espn3" tvg-name="Espn 3" tvg-logo="https://img.faz-o-eli.online/espn3.png" group-title="Esportes",Espn 3
+https://d0010a6f34908640a4a6da2389772a78.s21-cloudfront-net.lat/embedtv/bff305f668efb5b6030b9a9d5775e8d8/file.txt
+#EXTINF:-1 tvg-id="espn4" tvg-name="Espn 4" tvg-logo="https://img.faz-o-eli.online/espn4.png" group-title="Esportes",Espn 4
+https://d0010a6f34908640a4a6da2389772a78.s21-cloudfront-net.lat/embedtv/c187d97c93caeaa858762c1ae6253eb7/file.txt
+#EXTINF:-1 tvg-id="espn5" tvg-name="Espn 5" tvg-logo="https://img.faz-o-eli.online/espn5.png" group-title="Esportes",Espn 5
+https://d0010a6f34908640a4a6da2389772a78.s21-cloudfront-net.lat/embedtv/acc512d889d6e5aaa72f1934e9ca956a/file.txt
+#EXTINF:-1 tvg-id="espn6" tvg-name="Espn 6" tvg-logo="https://img.faz-o-eli.online/espn6.png" group-title="Esportes",Espn 6
+https://d0010a6f34908640a4a6da2389772a78.s21-cloudfront-net.lat/embedtv/f1d2503f42daa8532a1326d69f908ab5/file.txt
+#EXTINF:-1 tvg-id="max1" tvg-name="Max - 1" tvg-logo="https://img.faz-o-eli.online/max.png" group-title="Esportes",Max - 1
+https://d0010a6f34908640a4a6da2389772a78.s21-cloudfront-net.lat/embedtv/4974a40d79c628392fdc1bbfa8a5811c/file.txt
+#EXTINF:-1 tvg-id="max2" tvg-name="Max - 2" tvg-logo="https://img.faz-o-eli.online/max.png" group-title="Esportes",Max - 2
+https://d0010a6f34908640a4a6da2389772a78.s21-cloudfront-net.lat/embedtv/61495fe8530502dbbd5583421711a5f6/file.txt
+#EXTINF:-1 tvg-id="max3" tvg-name="Max - 3" tvg-logo="https://img.faz-o-eli.online/max.png" group-title="Esportes",Max - 3
+https://d0010a6f34908640a4a6da2389772a78.s21-cloudfront-net.lat/embedtv/1b1cb7e18cd6f685577bf7e44445887a/file.txt
+#EXTINF:-1 tvg-id="paramountplus" tvg-name="Paramount Plus" tvg-logo="https://img.faz-o-eli.online/paramountplus.png" group-title="Esportes",Paramount Plus
+https://d0010a6f34908640a4a6da2389772a78.s21-cloudfront-net.lat/embedtv/68e5af709205b7958e8ddfdc6d25bcd8/file.txt
+#EXTINF:-1 tvg-id="paramountplus2" tvg-name="Paramount Plus 2" tvg-logo="https://img.faz-o-eli.online/paramountplus.png" group-title="Esportes",Paramount Plus 2
+https://d0010a6f34908640a4a6da2389772a78.s21-cloudfront-net.lat/embedtv/4d9fec0f78985d77aec959e1512fc1d7/file.txt
+#EXTINF:-1 tvg-id="premiere" tvg-name="Premiere 1" tvg-logo="https://img.faz-o-eli.online/premiere.png" group-title="Esportes",Premiere 1
+https://d0010a6f34908640a4a6da2389772a78.s21-cloudfront-net.lat/embedtv/bb507b2ab2a3006c4d5689129696fbf2/file.txt
+#EXTINF:-1 tvg-id="premiere2" tvg-name="Premiere 2" tvg-logo="https://img.faz-o-eli.online/premiere.png" group-title="Esportes",Premiere 2
+https://d0010a6f34908640a4a6da2389772a78.s21-cloudfront-net.lat/embedtv/3c2fa9345279329f7129e1f6d5891df4/file.txt
+#EXTINF:-1 tvg-id="premiere3" tvg-name="Premiere 3" tvg-logo="https://img.faz-o-eli.online/premiere.png" group-title="Esportes",Premiere 3
+https://d0010a6f34908640a4a6da2389772a78.s21-cloudfront-net.lat/embedtv/e9301657d749c51fc44cf144b9192c01/file.txt
+#EXTINF:-1 tvg-id="premiere4" tvg-name="Premiere 4" tvg-logo="https://img.faz-o-eli.online/premiere.png" group-title="Esportes",Premiere 4
+https://d0010a6f34908640a4a6da2389772a78.s21-cloudfront-net.lat/embedtv/11e708fefc005df9c6657d2c5b3f6fe6/file.txt
+#EXTINF:-1 tvg-id="premiere5" tvg-name="Premiere 5" tvg-logo="https://img.faz-o-eli.online/premiere.png" group-title="Esportes",Premiere 5
+https://d0010a6f34908640a4a6da2389772a78.s21-cloudfront-net.lat/embedtv/ba6651e1a53c9103219a4e164df5e990/file.txt
+#EXTINF:-1 tvg-id="premiere6" tvg-name="Premiere 6" tvg-logo="https://img.faz-o-eli.online/premiere.png" group-title="Esportes",Premiere 6
+https://d0010a6f34908640a4a6da2389772a78.s21-cloudfront-net.lat/embedtv/1296492d138e908be62ba1ffd5f5498b/file.txt
+#EXTINF:-1 tvg-id="premiere7" tvg-name="Premiere 7" tvg-logo="https://img.faz-o-eli.online/premiere.png" group-title="Esportes",Premiere 7
+https://d0010a6f34908640a4a6da2389772a78.s21-cloudfront-net.lat/embedtv/31c790e988f059b2b155b872a4a2fd31/file.txt
+#EXTINF:-1 tvg-id="premiere8" tvg-name="Premiere 8" tvg-logo="https://img.faz-o-eli.online/premiere.png" group-title="Esportes",Premiere 8
+https://d0010a6f34908640a4a6da2389772a78.s21-cloudfront-net.lat/embedtv/1e4f339d526113fc63f49f7501c0eeb6/file.txt
+#EXTINF:-1 tvg-id="primevideo" tvg-name="Prime Video" tvg-logo="https://img.faz-o-eli.online/primevideo.png" group-title="Esportes",Prime Video
+https://d0010a6f34908640a4a6da2389772a78.s21-cloudfront-net.lat/embedtv/6344182b0f40613aea6931dda30c418e/file.txt
+#EXTINF:-1 tvg-id="primevideo2" tvg-name="Prime Video 2" tvg-logo="https://img.faz-o-eli.online/primevideo.png" group-title="Esportes",Prime Video 2
+https://d0010a6f34908640a4a6da2389772a78.s21-cloudfront-net.lat/embedtv/179bfbacde4d169e87eca5c6f571b564/file.txt
+#EXTINF:-1 tvg-id="primevideo3" tvg-name="Prime Video 3" tvg-logo="https://img.faz-o-eli.online/primevideo.png" group-title="Esportes",Prime Video 3
+https://d0010a6f34908640a4a6da2389772a78.s21-cloudfront-net.lat/embedtv/b99b5d00490c17fbbd3fa029e433d70e/file.txt
+#EXTINF:-1 tvg-id="primevideo4" tvg-name="Prime Video 4" tvg-logo="https://img.faz-o-eli.online/primevideo.png" group-title="Esportes",Prime Video 4
+https://d0010a6f34908640a4a6da2389772a78.s21-cloudfront-net.lat/embedtv/3c0421d4f1572fd207886cccac3cc41b/file.txt
+#EXTINF:-1 tvg-id="sportv" tvg-name="Sportv" tvg-logo="https://img.faz-o-eli.online/sportv.png" group-title="Esportes",Sportv
+https://d0010a6f34908640a4a6da2389772a78.s21-cloudfront-net.lat/embedtv/5d5bac6f7556d4a5360dc0f4f4918a06/file.txt
+#EXTINF:-1 tvg-id="sportv2" tvg-name="Sportv 2" tvg-logo="https://img.faz-o-eli.online/sportv2.png" group-title="Esportes",Sportv 2
+https://d0010a6f34908640a4a6da2389772a78.s21-cloudfront-net.lat/embedtv/c0d41001c0c0f89156a7965303e3cc85/file.txt
+#EXTINF:-1 tvg-id="sportv3" tvg-name="Sportv 3" tvg-logo="https://img.faz-o-eli.online/sportv3.png" group-title="Esportes",Sportv 3
+https://d0010a6f34908640a4a6da2389772a78.s21-cloudfront-net.lat/embedtv/0f46a5e9dd343f0f5e0204958246729e/file.txt
+#EXTINF:-1 tvg-id="sportv4" tvg-name="Sportv 4" tvg-logo="https://img.faz-o-eli.online/sportv4.png" group-title="Esportes",Sportv 4
+https://d0010a6f34908640a4a6da2389772a78.s21-cloudfront-net.lat/embedtv/516352236bf480c1df491feea8d833d3/file.txt
+#EXTINF:-1 tvg-id="sportynet" tvg-name="SportyNet" tvg-logo="https://img.faz-o-eli.online/sportynet.png" group-title="Esportes",SportyNet
+https://d0010a6f34908640a4a6da2389772a78.s21-cloudfront-net.lat/embedtv/244cc30e4c210ec5b3a5cdde5346bcdf/file.txt
+#EXTINF:-1 tvg-id="sportynetplus1" tvg-name="SportyNet+ 1" tvg-logo="https://img.faz-o-eli.online/sportynet.png" group-title="Esportes",SportyNet+ 1
+https://d0010a6f34908640a4a6da2389772a78.s21-cloudfront-net.lat/embedtv/d5abafe4710919b3ba90776fc5b4a26c/file.txt
+#EXTINF:-1 tvg-id="sportynetplus2" tvg-name="SportyNet+ 2" tvg-logo="https://img.faz-o-eli.online/sportynet.png" group-title="Esportes",SportyNet+ 2
+https://d0010a6f34908640a4a6da2389772a78.s21-cloudfront-net.lat/embedtv/8c245bb56a9795c50c3f6b39966a5eff/file.txt
+#EXTINF:-1 tvg-id="sportynetplus3" tvg-name="SportyNet+ 3" tvg-logo="https://img.faz-o-eli.online/sportynet.png" group-title="Esportes",SportyNet+ 3
+https://d0010a6f34908640a4a6da2389772a78.s21-cloudfront-net.lat/embedtv/2b0dd676043b475a66eb3128f3befcf6/file.txt
+#EXTINF:-1 tvg-id="ufcfightpass" tvg-name="UFC Fight Pass" tvg-logo="https://img.faz-o-eli.online/ufcfightpass.png" group-title="Esportes",UFC Fight Pass
+https://d0010a6f34908640a4a6da2389772a78.s21-cloudfront-net.lat/embedtv/fc7f45b27f1218f836c99868fa156bcc/file.txt
+#EXTINF:-1 tvg-id="xsports" tvg-name="XSports" tvg-logo="https://img.faz-o-eli.online/xsports.png" group-title="Esportes",XSports
+https://d0010a6f34908640a4a6da2389772a78.s21-cloudfront-net.lat/embedtv/313108f511122dbe6ff4738c76774968/file.txt
+#EXTINF:-1 tvg-id="24h_chaves" tvg-name="24H Chaves" tvg-logo="https://img.faz-o-eli.online/24h.png" group-title="Infantil",24H Chaves
+https://d0010a6f34908640a4a6da2389772a78.s21-cloudfront-net.lat/embedtv/9f429e6fd0f149567044bdb01752d7e1/file.txt
+#EXTINF:-1 tvg-id="24h_dragonball" tvg-name="24H Dragon Ball Z" tvg-logo="https://img.faz-o-eli.online/24h.png" group-title="Infantil",24H Dragon Ball Z
+https://d0010a6f34908640a4a6da2389772a78.s21-cloudfront-net.lat/embedtv/6bc0e8cf0d39db79ad169362c93a4450/file.txt
+#EXTINF:-1 tvg-id="24h_naruto" tvg-name="24H Naruto Clássico" tvg-logo="https://img.faz-o-eli.online/24h.png" group-title="Infantil",24H Naruto Clássico
+https://d0010a6f34908640a4a6da2389772a78.s21-cloudfront-net.lat/embedtv/9bf72022ab55042fbfea4537cb787621/file.txt
+#EXTINF:-1 tvg-id="24h_simpsons" tvg-name="24H Os Simpsons" tvg-logo="https://img.faz-o-eli.online/24h.png" group-title="Infantil",24H Os Simpsons
+https://d0010a6f34908640a4a6da2389772a78.s21-cloudfront-net.lat/embedtv/684f83a460a0aff1178eb0dc3939b7ce/file.txt
+#EXTINF:-1 tvg-id="24h_picapau" tvg-name="24H Pica Pau" tvg-logo="https://img.faz-o-eli.online/24h.png" group-title="Infantil",24H Pica Pau
+https://d0010a6f34908640a4a6da2389772a78.s21-cloudfront-net.lat/embedtv/979e4963ee3361cdcf21b2d7e22dabc8/file.txt
+#EXTINF:-1 tvg-id="24h_odeiachris" tvg-name="24H Todo Mundo Odeia o Cris" tvg-logo="https://img.faz-o-eli.online/24h.png" group-title="Infantil",24H Todo Mundo Odeia o Cris
+https://d0010a6f34908640a4a6da2389772a78.s21-cloudfront-net.lat/embedtv/7936cb2ddd0a869d8516c5afad7bc477/file.txt
+#EXTINF:-1 tvg-id="cartoonnetwork" tvg-name="Cartoon Network" tvg-logo="https://img.faz-o-eli.online/cartoonnetwork.png" group-title="Infantil",Cartoon Network
+https://d0010a6f34908640a4a6da2389772a78.s21-cloudfront-net.lat/embedtv/5d347b63e4cb23a83e58943ee19383d1/file.txt
+#EXTINF:-1 tvg-id="cartoonito" tvg-name="Cartoonito" tvg-logo="https://img.faz-o-eli.online/cartoonito.png" group-title="Infantil",Cartoonito
+https://d0010a6f34908640a4a6da2389772a78.s21-cloudfront-net.lat/embedtv/adc70a0efe1a4047d873f761e07444f2/file.txt
+#EXTINF:-1 tvg-id="discoverykids" tvg-name="Discovery Kids" tvg-logo="https://img.faz-o-eli.online/discoverykids.png" group-title="Infantil",Discovery Kids
+https://d0010a6f34908640a4a6da2389772a78.s21-cloudfront-net.lat/embedtv/f08751cc3915efa5382eb5785c68024f/file.txt
+#EXTINF:-1 tvg-id="gloob" tvg-name="Gloob" tvg-logo="https://img.faz-o-eli.online/gloob.png" group-title="Infantil",Gloob
+https://d0010a6f34908640a4a6da2389772a78.s21-cloudfront-net.lat/embedtv/6fbe10c5f7e7e439cec524b670f32154/file.txt
+#EXTINF:-1 tvg-id="animalplanet" tvg-name="Animal Planet" tvg-logo="https://img.faz-o-eli.online/animalplanet.png" group-title="Documentarios",Animal Planet
+https://d0010a6f34908640a4a6da2389772a78.s21-cloudfront-net.lat/embedtv/b573873b89baab71ca3c67b58f3da93c/file.txt
+#EXTINF:-1 tvg-id="discoverychannel" tvg-name="Discovery Channel" tvg-logo="https://img.faz-o-eli.online/discoverychannel.png" group-title="Documentarios",Discovery Channel
+https://d0010a6f34908640a4a6da2389772a78.s21-cloudfront-net.lat/embedtv/6d81bd478190fffb6626d5910ff146ad/file.txt
+#EXTINF:-1 tvg-id="discoveryhh" tvg-name="Discovery H&H" tvg-logo="https://img.faz-o-eli.online/discoveryhh.png" group-title="Documentarios",Discovery H&H
+https://d0010a6f34908640a4a6da2389772a78.s21-cloudfront-net.lat/embedtv/3ded2f4dcb1a38ae139ce1968c68b6c5/file.txt
+#EXTINF:-1 tvg-id="discoveryid" tvg-name="Discovery ID" tvg-logo="https://img.faz-o-eli.online/discoverychannel.png" group-title="Documentarios",Discovery ID
+https://d0010a6f34908640a4a6da2389772a78.s21-cloudfront-net.lat/embedtv/b495166f38540f9d584ab77df526ba8b/file.txt
+#EXTINF:-1 tvg-id="discoveryscience" tvg-name="Discovery Science" tvg-logo="https://img.faz-o-eli.online/discoveryscience.png" group-title="Documentarios",Discovery Science
+https://d0010a6f34908640a4a6da2389772a78.s21-cloudfront-net.lat/embedtv/0d8b9ebd6aae3ffbd64de9185bb59611/file.txt
+#EXTINF:-1 tvg-id="discoverytheather" tvg-name="Discovery Theater" tvg-logo="https://img.faz-o-eli.online/discoverytheater.png" group-title="Documentarios",Discovery Theater
+https://d0010a6f34908640a4a6da2389772a78.s21-cloudfront-net.lat/embedtv/d44fa8294708a4c5ebccd9b2ba186a64/file.txt
+#EXTINF:-1 tvg-id="discoveryturbo" tvg-name="Discovery Turbo" tvg-logo="https://img.faz-o-eli.online/discoveryturbo.png" group-title="Documentarios",Discovery Turbo
+https://d0010a6f34908640a4a6da2389772a78.s21-cloudfront-net.lat/embedtv/7f2ebb800cfbb5e7604b990bde0a20a8/file.txt
+#EXTINF:-1 tvg-id="discoveryworld" tvg-name="Discovery World" tvg-logo="https://img.faz-o-eli.online/discoveryworld.png" group-title="Documentarios",Discovery World
+https://d0010a6f34908640a4a6da2389772a78.s21-cloudfront-net.lat/embedtv/d7a733102f419e6cd10d318327e18998/file.txt
+#EXTINF:-1 tvg-id="history" tvg-name="History" tvg-logo="https://img.faz-o-eli.online/history.png" group-title="Documentarios",History
+https://d0010a6f34908640a4a6da2389772a78.s21-cloudfront-net.lat/embedtv/56d3576ad3671430d11eda0d37bed6f8/file.txt
+#EXTINF:-1 tvg-id="history2" tvg-name="History 2" tvg-logo="https://img.faz-o-eli.online/history2.png" group-title="Documentarios",History 2
+https://d0010a6f34908640a4a6da2389772a78.s21-cloudfront-net.lat/embedtv/38a9f4725f5ed35ecb3512fed78fd57d/file.txt
+#EXTINF:-1 tvg-id="bandnews" tvg-name="Band News" tvg-logo="https://img.faz-o-eli.online/bandnews.png" group-title="Noticias",Band News
+https://d0010a6f34908640a4a6da2389772a78.s21-cloudfront-net.lat/embedtv/32bcbdab5c4bc6ab7669fea9554f96c9/file.txt
+#EXTINF:-1 tvg-id="bandrj" tvg-name="Band RJ" tvg-logo="https://img.faz-o-eli.online/band.png" group-title="Noticias",Band RJ
+https://d0010a6f34908640a4a6da2389772a78.s21-cloudfront-net.lat/embedtv/c126bd18d4d2441fe5207e03e8affe24/file.txt
+#EXTINF:-1 tvg-id="bandsp" tvg-name="Band SP" tvg-logo="https://img.faz-o-eli.online/band.png" group-title="Noticias",Band SP
+https://d0010a6f34908640a4a6da2389772a78.s21-cloudfront-net.lat/embedtv/a38af6cabd126fe3b5e03ab910e3aeac/file.txt
+#EXTINF:-1 tvg-id="cnnbrasil" tvg-name="CNN Brasil" tvg-logo="https://img.faz-o-eli.online/cnnbrasil.png" group-title="Noticias",CNN Brasil
+https://d0010a6f34908640a4a6da2389772a78.s21-cloudfront-net.lat/embedtv/6eec5ea93bdd3472eb32480fedc31750/file.txt
+#EXTINF:-1 tvg-id="globonews" tvg-name="Globo News" tvg-logo="https://img.faz-o-eli.online/globonews.png" group-title="Noticias",Globo News
+https://d0010a6f34908640a4a6da2389772a78.s21-cloudfront-net.lat/embedtv/c1de06d53c264c359ebc04288f2b9447/file.txt
+#EXTINF:-1 tvg-id="recordgo" tvg-name="Record GO" tvg-logo="https://img.faz-o-eli.online/record.png" group-title="Noticias",Record GO
+https://d0010a6f34908640a4a6da2389772a78.s21-cloudfront-net.lat/embedtv/7ff6e4339f273a53d845a6b55cdefe29/file.txt
+#EXTINF:-1 tvg-id="recordmg" tvg-name="Record MG" tvg-logo="https://img.faz-o-eli.online/record.png" group-title="Noticias",Record MG
+https://d0010a6f34908640a4a6da2389772a78.s21-cloudfront-net.lat/embedtv/9747987c3eb127caca22bec01fcf5df6/file.txt
+#EXTINF:-1 tvg-id="recordrj" tvg-name="Record RJ" tvg-logo="https://img.faz-o-eli.online/record.png" group-title="Noticias",Record RJ
+https://d0010a6f34908640a4a6da2389772a78.s21-cloudfront-net.lat/embedtv/a4c7740ea0d19697cf25fdcb125a833e/file.txt
+#EXTINF:-1 tvg-id="recordsp" tvg-name="Record SP" tvg-logo="https://img.faz-o-eli.online/record.png" group-title="Noticias",Record SP
+https://d0010a6f34908640a4a6da2389772a78.s21-cloudfront-net.lat/embedtv/7f56aa6ea9cd8c360f4495de0c812d3f/file.txt
+#EXTINF:-1 tvg-id="sbtrj" tvg-name="SBT RJ" tvg-logo="https://img.faz-o-eli.online/sbt.png" group-title="Noticias",SBT RJ
+https://d0010a6f34908640a4a6da2389772a78.s21-cloudfront-net.lat/embedtv/b5f1a30431576e76f6810923f6a4d1d5/file.txt
+#EXTINF:-1 tvg-id="sbtsp" tvg-name="SBT SP" tvg-logo="https://img.faz-o-eli.online/sbt.png" group-title="Noticias",SBT SP
+https://d0010a6f34908640a4a6da2389772a78.s21-cloudfront-net.lat/embedtv/b437f9c8c95efa7df00b069dcf4af095/file.txt
+#EXTINF:-1 tvg-id="adultswim" tvg-name="Adult Swim" tvg-logo="https://img.faz-o-eli.online/adultswim.png" group-title="Filmes e Séries",Adult Swim
+https://d0010a6f34908640a4a6da2389772a78.s21-cloudfront-net.lat/embedtv/d6c43e214e79cf396023534d9566030f/file.txt
+#EXTINF:-1 tvg-id="ae" tvg-name="AE" tvg-logo="https://img.faz-o-eli.online/ae.png" group-title="Filmes e Séries",AE
+https://d0010a6f34908640a4a6da2389772a78.s21-cloudfront-net.lat/embedtv/4223f22612946b187ceea90aa1a2a48b/file.txt
+#EXTINF:-1 tvg-id="amc" tvg-name="AMC" tvg-logo="https://img.faz-o-eli.online/amc.png" group-title="Filmes e Séries",AMC
+https://d0010a6f34908640a4a6da2389772a78.s21-cloudfront-net.lat/embedtv/0b57b2a8bb4cb719f8df192d423eb7ec/file.txt
+#EXTINF:-1 tvg-id="axn" tvg-name="AXN" tvg-logo="https://img.faz-o-eli.online/axn.png" group-title="Filmes e Séries",AXN
+https://d0010a6f34908640a4a6da2389772a78.s21-cloudfront-net.lat/embedtv/ff73afa3371b8716d217ee06c3ad5b8e/file.txt
+#EXTINF:-1 tvg-id="cinemax" tvg-name="Cinemax" tvg-logo="https://img.faz-o-eli.online/cinemax.png" group-title="Filmes e Séries",Cinemax
+https://d0010a6f34908640a4a6da2389772a78.s21-cloudfront-net.lat/embedtv/98d2c659aa25f9e522c7c2814bd47692/file.txt
+#EXTINF:-1 tvg-id="gnt" tvg-name="GNT" tvg-logo="https://img.faz-o-eli.online/gnt.png" group-title="Filmes e Séries",GNT
+https://d0010a6f34908640a4a6da2389772a78.s21-cloudfront-net.lat/embedtv/9789311f341ef4f62ce126fe2f843069/file.txt
+#EXTINF:-1 tvg-id="hbo" tvg-name="HBO" tvg-logo="https://img.faz-o-eli.online/hbo.png" group-title="Filmes e Séries",HBO
+https://d0010a6f34908640a4a6da2389772a78.s21-cloudfront-net.lat/embedtv/7631714f4f5a7b08e9c84469e61da5dc/file.txt
+#EXTINF:-1 tvg-id="hbo2" tvg-name="HBO 2" tvg-logo="https://img.faz-o-eli.online/hbo2.png" group-title="Filmes e Séries",HBO 2
+https://d0010a6f34908640a4a6da2389772a78.s21-cloudfront-net.lat/embedtv/4b9df67d4e47fe089c75102d14c7f3ba/file.txt
+#EXTINF:-1 tvg-id="hbofamily" tvg-name="HBO Family" tvg-logo="https://img.faz-o-eli.online/hbofamily.png" group-title="Filmes e Séries",HBO Family
+https://d0010a6f34908640a4a6da2389772a78.s21-cloudfront-net.lat/embedtv/d5efee9e2b5135271ae11ade6d76a212/file.txt
+#EXTINF:-1 tvg-id="hbomundi" tvg-name="HBO Mundi" tvg-logo="https://img.faz-o-eli.online/hbomundi.png" group-title="Filmes e Séries",HBO Mundi
+https://d0010a6f34908640a4a6da2389772a78.s21-cloudfront-net.lat/embedtv/a251c45253a51a8cfc2eea841d5233c2/file.txt
+#EXTINF:-1 tvg-id="hboplus" tvg-name="HBO Plus" tvg-logo="https://img.faz-o-eli.online/hboplus.png" group-title="Filmes e Séries",HBO Plus
+https://d0010a6f34908640a4a6da2389772a78.s21-cloudfront-net.lat/embedtv/afc46094fc3ef1a9a5f0fe4fc0640dc7/file.txt
+#EXTINF:-1 tvg-id="hbopop" tvg-name="HBO POP" tvg-logo="https://img.faz-o-eli.online/hbopop.png" group-title="Filmes e Séries",HBO POP
+https://d0010a6f34908640a4a6da2389772a78.s21-cloudfront-net.lat/embedtv/3e031fe254f4119fb24a1ffe93057936/file.txt
+#EXTINF:-1 tvg-id="hboxtreme" tvg-name="HBO Xtreme" tvg-logo="https://img.faz-o-eli.online/hboxtreme.png" group-title="Filmes e Séries",HBO Xtreme
+https://d0010a6f34908640a4a6da2389772a78.s21-cloudfront-net.lat/embedtv/b6b2727233e547e35ecbbe5e62bb49ca/file.txt
+#EXTINF:-1 tvg-id="hgtv" tvg-name="HGTV" tvg-logo="https://img.faz-o-eli.online/hgtv.png" group-title="Filmes e Séries",HGTV
+https://d0010a6f34908640a4a6da2389772a78.s21-cloudfront-net.lat/embedtv/332b6c464f2f812055241343ed288f6b/file.txt
+#EXTINF:-1 tvg-id="megapix" tvg-name="Megapix" tvg-logo="https://img.faz-o-eli.online/megapix.png" group-title="Filmes e Séries",Megapix
+https://d0010a6f34908640a4a6da2389772a78.s21-cloudfront-net.lat/embedtv/17653f4b68b51ecf1d223e935f1dc13f/file.txt
+#EXTINF:-1 tvg-id="off" tvg-name="OFF" tvg-logo="https://img.faz-o-eli.online/off.png" group-title="Filmes e Séries",OFF
+https://d0010a6f34908640a4a6da2389772a78.s21-cloudfront-net.lat/embedtv/75f6ee6c4125bc7ec176ad53e1cc8b77/file.txt
+#EXTINF:-1 tvg-id="sonychannel" tvg-name="Sony Channel" tvg-logo="https://img.faz-o-eli.online/sonychannel.png" group-title="Filmes e Séries",Sony Channel
+https://d0010a6f34908640a4a6da2389772a78.s21-cloudfront-net.lat/embedtv/f1c4616a7643b246e86b19c943469119/file.txt
+#EXTINF:-1 tvg-id="space" tvg-name="Space" tvg-logo="https://img.faz-o-eli.online/space.png" group-title="Filmes e Séries",Space
+https://d0010a6f34908640a4a6da2389772a78.s21-cloudfront-net.lat/embedtv/2e3b136b8e0911949ae853e22ff13751/file.txt
+#EXTINF:-1 tvg-id="starchannel" tvg-name="Star Channel" tvg-logo="https://img.faz-o-eli.online/starchannel.png" group-title="Filmes e Séries",Star Channel
+https://d0010a6f34908640a4a6da2389772a78.s21-cloudfront-net.lat/embedtv/e34c1097d4df7adc49935f8ea0602042/file.txt
+#EXTINF:-1 tvg-id="studiouniversal" tvg-name="Studio Universal" tvg-logo="https://img.faz-o-eli.online/studiouniversal.png" group-title="Filmes e Séries",Studio Universal
+https://d0010a6f34908640a4a6da2389772a78.s21-cloudfront-net.lat/embedtv/5d59ca5ee33a90a9973a6a31dda5c9e2/file.txt
+#EXTINF:-1 tvg-id="tcm" tvg-name="TCM" tvg-logo="https://img.faz-o-eli.online/tcm.png" group-title="Filmes e Séries",TCM
+https://d0010a6f34908640a4a6da2389772a78.s21-cloudfront-net.lat/embedtv/f7743db46cb2e26297e330d8024d652c/file.txt
+#EXTINF:-1 tvg-id="telecineaction" tvg-name="Telecine Action" tvg-logo="https://img.faz-o-eli.online/telecineaction.png" group-title="Filmes e Séries",Telecine Action
+https://d0010a6f34908640a4a6da2389772a78.s21-cloudfront-net.lat/embedtv/68a77cdb5f5cbfdd7ee38cbd5b34d0f0/file.txt
+#EXTINF:-1 tvg-id="telecinecult" tvg-name="Telecine Cult" tvg-logo="https://img.faz-o-eli.online/telecinecult.png" group-title="Filmes e Séries",Telecine Cult
+https://d0010a6f34908640a4a6da2389772a78.s21-cloudfront-net.lat/embedtv/c607d7094151531595cae8ea66fdcbf1/file.txt
+#EXTINF:-1 tvg-id="telecinefun" tvg-name="Telecine Fun" tvg-logo="https://img.faz-o-eli.online/telecinefun.png" group-title="Filmes e Séries",Telecine Fun
+https://d0010a6f34908640a4a6da2389772a78.s21-cloudfront-net.lat/embedtv/6318c7d97d1c1e63f0bb8cee32e02a32/file.txt
+#EXTINF:-1 tvg-id="telecinepipoca" tvg-name="Telecine Pipoca" tvg-logo="https://img.faz-o-eli.online/telecinepipoca.png" group-title="Filmes e Séries",Telecine Pipoca
+https://d0010a6f34908640a4a6da2389772a78.s21-cloudfront-net.lat/embedtv/925227ee07d543cde10e4bc965027a07/file.txt
+#EXTINF:-1 tvg-id="telecinepremium" tvg-name="Telecine Premium" tvg-logo="https://img.faz-o-eli.online/telecinepremium.png" group-title="Filmes e Séries",Telecine Premium
+https://d0010a6f34908640a4a6da2389772a78.s21-cloudfront-net.lat/embedtv/90970ecb5566b4af9f503d6cc31de241/file.txt
+#EXTINF:-1 tvg-id="telecinetouch" tvg-name="Telecine Touch" tvg-logo="https://img.faz-o-eli.online/telecinetouch.png" group-title="Filmes e Séries",Telecine Touch
+https://d0010a6f34908640a4a6da2389772a78.s21-cloudfront-net.lat/embedtv/6e9f6b57bb21c473889899bdd4a8fa33/file.txt
+#EXTINF:-1 tvg-id="tlc" tvg-name="TLC" tvg-logo="https://img.faz-o-eli.online/tlc.png" group-title="Filmes e Séries",TLC
+https://d0010a6f34908640a4a6da2389772a78.s21-cloudfront-net.lat/embedtv/ee3468c73e349cdc805b1626d4c969b9/file.txt
+#EXTINF:-1 tvg-id="tnt" tvg-name="TNT" tvg-logo="https://img.faz-o-eli.online/tnt.png" group-title="Filmes e Séries",TNT
+https://d0010a6f34908640a4a6da2389772a78.s21-cloudfront-net.lat/embedtv/717e82cf46151e712dd48eb0e652f6a6/file.txt
+#EXTINF:-1 tvg-id="tntnovelas" tvg-name="TNT Novelas" tvg-logo="https://img.faz-o-eli.online/tntnovelas.png" group-title="Filmes e Séries",TNT Novelas
+https://d0010a6f34908640a4a6da2389772a78.s21-cloudfront-net.lat/embedtv/07a4137d964e7ecb99b4d0c1acdb7051/file.txt
+#EXTINF:-1 tvg-id="tntseries" tvg-name="TNT Series" tvg-logo="https://img.faz-o-eli.online/tntseries.png" group-title="Filmes e Séries",TNT Series
+https://d0010a6f34908640a4a6da2389772a78.s21-cloudfront-net.lat/embedtv/d21112d9e8686c2b35d3a46d302c5458/file.txt
+#EXTINF:-1 tvg-id="universaltv" tvg-name="Universal" tvg-logo="https://img.faz-o-eli.online/universaltv.png" group-title="Filmes e Séries",Universal
+https://d0010a6f34908640a4a6da2389772a78.s21-cloudfront-net.lat/embedtv/50a4e67ff43d83708b8f73a9311d578a/file.txt
+#EXTINF:-1 tvg-id="warnerchannel" tvg-name="Warnerchannel" tvg-logo="https://img.faz-o-eli.online/warnerchannel.png" group-title="Filmes e Séries",Warnerchannel
+https://d0010a6f34908640a4a6da2389772a78.s21-cloudfront-net.lat/embedtv/37c5ee5ef0ddf4601d8899eceff3ab39/file.txt
+#EXTINF:-1 tvg-id="aparecida" tvg-name="Aparecida" tvg-logo="https://img.faz-o-eli.online/tvaparecida.png" group-title="Abertos",Aparecida
+https://d0010a6f34908640a4a6da2389772a78.s21-cloudfront-net.lat/embedtv/32cf7b4d5ba600abadd2ebda5384bf43/file.txt
+#EXTINF:-1 tvg-id="cancaonova" tvg-name="Canção Nova" tvg-logo="https://img.faz-o-eli.online/cancaonova.png" group-title="Abertos",Canção Nova
+https://d0010a6f34908640a4a6da2389772a78.s21-cloudfront-net.lat/embedtv/cdaa06903ca3c6d04f418ca27179616a/file.txt
+#EXTINF:-1 tvg-id="cultura" tvg-name="Cultura" tvg-logo="https://img.faz-o-eli.online/cultura.png" group-title="Abertos",Cultura
+https://d0010a6f34908640a4a6da2389772a78.s21-cloudfront-net.lat/embedtv/26a75e6cfa4c11ff122f252ac2164902/file.txt
+#EXTINF:-1 tvg-id="globoam" tvg-name="Globo AM" tvg-logo="https://img.faz-o-eli.online/globosp.png" group-title="Abertos",Globo AM
+https://d0010a6f34908640a4a6da2389772a78.s21-cloudfront-net.lat/embedtv/4064bf439e31216feb17180b9a4de182/file.txt
+#EXTINF:-1 tvg-id="globoce" tvg-name="Globo CE" tvg-logo="https://img.faz-o-eli.online/globosp.png" group-title="Abertos",Globo CE
+https://d0010a6f34908640a4a6da2389772a78.s21-cloudfront-net.lat/embedtv/247e5c7820aa9b88055a82941bbd18ad/file.txt
+#EXTINF:-1 tvg-id="globodf" tvg-name="Globo DF" tvg-logo="https://img.faz-o-eli.online/globosp.png" group-title="Abertos",Globo DF
+https://d0010a6f34908640a4a6da2389772a78.s21-cloudfront-net.lat/embedtv/049077b43147085c010036a99586b88a/file.txt
+#EXTINF:-1 tvg-id="globoes" tvg-name="Globo ES" tvg-logo="https://img.faz-o-eli.online/globosp.png" group-title="Abertos",Globo ES
+https://d0010a6f34908640a4a6da2389772a78.s21-cloudfront-net.lat/embedtv/03fdca3e6f6af271866342ece58cafe4/file.txt
+#EXTINF:-1 tvg-id="globogo" tvg-name="Globo GO" tvg-logo="https://img.faz-o-eli.online/globosp.png" group-title="Abertos",Globo GO
+https://d0010a6f34908640a4a6da2389772a78.s21-cloudfront-net.lat/embedtv/1e9718c0b0da551b46b63504e5cc3814/file.txt
+#EXTINF:-1 tvg-id="globomg" tvg-name="Globo MG" tvg-logo="https://img.faz-o-eli.online/globosp.png" group-title="Abertos",Globo MG
+https://d0010a6f34908640a4a6da2389772a78.s21-cloudfront-net.lat/embedtv/783e5a34587882028fb246d921768a2d/file.txt
+#EXTINF:-1 tvg-id="globonovelas" tvg-name="Globo Novelas" tvg-logo="https://img.faz-o-eli.online/globonovelas.png" group-title="Abertos",Globo Novelas
+https://d0010a6f34908640a4a6da2389772a78.s21-cloudfront-net.lat/embedtv/b8b721b67c40d06aca649b702ef30759/file.txt
+#EXTINF:-1 tvg-id="globopb" tvg-name="Globo PB" tvg-logo="https://img.faz-o-eli.online/globosp.png" group-title="Abertos",Globo PB
+https://d0010a6f34908640a4a6da2389772a78.s21-cloudfront-net.lat/embedtv/82eb68e6d2e4057b714b13c82744126c/file.txt
+#EXTINF:-1 tvg-id="globope" tvg-name="Globo PE" tvg-logo="https://img.faz-o-eli.online/globosp.png" group-title="Abertos",Globo PE
+https://d0010a6f34908640a4a6da2389772a78.s21-cloudfront-net.lat/embedtv/7e3f0c894f746d916ffab6c07424a754/file.txt
+#EXTINF:-1 tvg-id="globorj" tvg-name="Globo RJ" tvg-logo="https://img.faz-o-eli.online/globorj.png" group-title="Abertos",Globo RJ
+https://d0010a6f34908640a4a6da2389772a78.s21-cloudfront-net.lat/embedtv/0734d530aff865b575287baba1f2c3f7/file.txt
+#EXTINF:-1 tvg-id="globors" tvg-name="Globo RS" tvg-logo="https://img.faz-o-eli.online/globosp.png" group-title="Abertos",Globo RS
+https://d0010a6f34908640a4a6da2389772a78.s21-cloudfront-net.lat/embedtv/4a9b8c03394202d3c49d43b03e31c653/file.txt
+#EXTINF:-1 tvg-id="globosp" tvg-name="Globo SP" tvg-logo="https://img.faz-o-eli.online/globosp.png" group-title="Abertos",Globo SP
+https://d0010a6f34908640a4a6da2389772a78.s21-cloudfront-net.lat/embedtv/5c6d074eaa798589e29be159af185a43/file.txt
+#EXTINF:-1 tvg-id="mtv" tvg-name="MTV" tvg-logo="https://img.faz-o-eli.online/mtv.png" group-title="Abertos",MTV
+https://d0010a6f34908640a4a6da2389772a78.s21-cloudfront-net.lat/embedtv/9309afa7ddebc47a91e292a87f1f65e7/file.txt
+#EXTINF:-1 tvg-id="multishow" tvg-name="Multishow" tvg-logo="https://img.faz-o-eli.online/multishow.png" group-title="Abertos",Multishow
+https://d0010a6f34908640a4a6da2389772a78.s21-cloudfront-net.lat/embedtv/5a2dca5a112600ae0be63aad03e99b23/file.txt
+#EXTINF:-1 tvg-id="redevida" tvg-name="Rede Vida" tvg-logo="https://img.faz-o-eli.online/redevida.png" group-title="Abertos",Rede Vida
+https://d0010a6f34908640a4a6da2389772a78.s21-cloudfront-net.lat/embedtv/c14f1cdf1bf69b081995ce9f76524087/file.txt
+#EXTINF:-1 tvg-id="tvpaieterno" tvg-name="TV Pai Eterno" tvg-logo="https://img.faz-o-eli.online/tvpaieterno.png" group-title="Abertos",TV Pai Eterno
+https://d0010a6f34908640a4a6da2389772a78.s21-cloudfront-net.lat/embedtv/d1d125ba6722afe4206f7beea340f9a6/file.txt
+#EXTINF:-1 tvg-id="foodnetwork" tvg-name="Food Network" tvg-logo="https://img.faz-o-eli.online/foodnetwork.png" group-title="Variedades",Food Network
+https://d0010a6f34908640a4a6da2389772a78.s21-cloudfront-net.lat/embedtv/651574242815fb8ed5be06bf1c811ded/file.txt
+#EXTINF:-1 tvg-id="masterchef" tvg-name="Master chef" tvg-logo="https://img.faz-o-eli.online/cheftv.png" group-title="Variedades",Master chef
+https://d0010a6f34908640a4a6da2389772a78.s21-cloudfront-net.lat/embedtv/9f92885a2480a83565898450cb12a7a2/file.txt
